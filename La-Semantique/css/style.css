@@ -1,0 +1,43 @@
+/*Body starts from here ...*/
+body
+{
+    max-width: 90%;
+    margin: auto;
+    background-image: url("http://sf.co.ua/16/06/wallpaper-142eb.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: cover;
+}
+
+/* All the paragraph start from here... */
+p
+{
+    font: bold 18px arial, sans-serif;
+    color: #fff;
+}
+/* All the links start from here ...*/
+a
+{
+    font-weight: bold;
+}
+a:hover
+{
+    color: #000;
+    font-size: 20px;
+}
+a:visited
+{
+    color: #f00;
+}
+/* All quotes start here ...*/
+q
+{
+    width: calc(90% / 2);
+    font-size: 160%;
+    margin: auto;
+    background-color: #999;
+    color: #000;
+    border-left: 3px solid red;
+    padding: 80px 30px;
+    display: block;
+}
